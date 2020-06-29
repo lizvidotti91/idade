@@ -1,5 +1,7 @@
 # Qual a sua idade? | How old are you?
 
+https://lizvidotti91.github.io/idade/
+
 Exercício da aula #12 do Curso Gratuito para iniciantes em JavaScript e ECMA Script, Professor Gustavo Guanabara.
 
 Este curso está disponível em: https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
