@@ -43,18 +43,18 @@ section form label{
 section form input[type="number"],
 input[type="button"],
 input[type="reset"]{
-    margin-bottom: 2vw;
+    margin-bottom: 1vw;
     margin-top: 2vw;
     padding: 2px;
     width: 100px;
 }
 
 section div{
-    margin-bottom: 2vw;
+    margin-bottom: 1vw;
 }
 
 section div img{
-    width: 35vw;
+    width: 20vw;
 }
 
 footer p{
