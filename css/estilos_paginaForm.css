@@ -1,0 +1,64 @@
+*{
+    font-family: 'Poiret One', cursive;
+    font-size: 16pt;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #575555;
+    color: #911026;
+}
+
+header{
+    margin-top: 1vh;
+}
+
+header h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 2em;
+    text-align: center;
+}
+
+section{
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    max-height: 80vh;
+    justify-content: center;
+    margin: 1vw auto;
+    padding-top: 30px;
+    text-align: center;
+    max-width: 80vw;
+}
+
+section form label{
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+section form input[type="number"],
+input[type="button"],
+input[type="reset"]{
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+    padding: 2px;
+    width: 100px;
+}
+
+section div{
+    margin-bottom: 2vw;
+}
+
+section div img{
+    width: 35vw;
+}
+
+footer p{
+    font-size: 0.8em;
+    font-weight: bold;
+    text-align: center;
+}

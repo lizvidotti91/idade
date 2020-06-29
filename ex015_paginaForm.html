@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qual sua idade</title>
+
+    <link rel="stylesheet" href="./css/estilos_paginaForm.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster+Two&family=Poiret+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Qual a sua idade?</h1>
+    </header>
+    <section>
+        <div>
+            <form action="">
+                <p>
+                    <label for="nascimento">
+                        Digite seu ano de nascimento:
+                    </label>
+                    <input type="number" name="nascimento" id="nascimento">
+                </p>
+                <p>
+                    <input type="radio" name="sexo" id="mulher" checked>
+                    <label for="mulher">
+                        Feminino
+                    </label>
+
+                    <input type="radio" name="sexo" id="homem">
+                    <label for="homem">
+                        Masculino
+                    </label>
+                </p>
+                <p>
+                    <input type="button" value="Calcular!" onclick="calcular()">
+                    <input type="reset" value="Limpar" onclick="limpar()">
+                </p>
+            </form>
+        </div>
+        <div id="resultado">
+            <div id="res"> </div>
+            <div>
+                <img id = "foto" src="">
+            </div>
+        </div>
+    </section>
+    <footer>
+        <p>
+            &copy; Curso em Vídeo
+        </p>
+    </footer>
+    <script src="paginaForm.js"></script>
+</body>
+</html>
