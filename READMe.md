@@ -6,14 +6,13 @@ Exercício da aula #12 do Curso Gratuito para iniciantes em JavaScript e ECMA Sc
 
 Este curso está disponível em: https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
 
-This is an exercise for the lesson #12 of Free Course for beginners in JavaScript and ECMA Script, Professor Gustavo Guanabara.
+This is an exercise for the lesson #12 of the Free Course for beginners on JavaScript and ECMA Script, Professor Gustavo Guanabara.
 
-This course is available in: https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+This course is available at: https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
 
-**Objetivo/Aim:** Fazer a interação de uma página HTML usando a linguagem de programação JavaScript | Interacting an HTML page using the JavaScript programming language
+**Objetivo/Aim:** Fazer a interação de uma página HTML usando a linguagem de programação JavaScript | Making a HTML page interactive by using the JavaScript programming language
 
-**Justificativa/Justification:** Prática de exercício | Exercise practice
-
+**Justificativa/Justification:** Praticar JavaScript | To practice JavaScript
 **Tecnologias/Technologies:** HTML, CSS e JavaScript | HTML, CSS and JavaScript
 
 **Autora/Author**
