@@ -55,8 +55,3 @@ function calcular(){
         resultado.innerHTML = `Detectamos ${sexo} com ${idade} anos`;
     }
 }
-
-function limpar(){
-    var resultado = window.document.getElementById('resultado');
-    resultado.innerHTML = ``;
-}
